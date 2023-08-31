@@ -92,7 +92,7 @@ The model performs reasonably, but there's room for improvement.<br />
 
 In summary, based on these results, the Random Forest model seems to be performing the best among the four models evaluated, as it has the highest accuracy and balanced precision and recall for both classes. The Naive Bayes model, on the other hand, seems to have the poorest performance, with imbalanced precision and recall for class 0. The Decision Tree and K-Nearest Neighbors models fall in between.
 
-<img src="figs/ROC Curves.png" width=800>
+<img src="figs/ROCCurves.png" width=800>
 
 ## Future Improvements
 While the initial model provides a solid foundation, there are several areas where further improvements could enhance its performance and predictive capabilities.<br />
