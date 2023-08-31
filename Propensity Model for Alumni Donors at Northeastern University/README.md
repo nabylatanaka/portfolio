@@ -1,14 +1,13 @@
 # Propensity Model for Alumni Donors at Northeastern University
 
-The goal of this project is to build a propensity model that can accurately predict the likelihood of an alumni donor making a donation to the University. The model will be trained on historical data of past donations and will utilize various demographic and behavioral factors that may influence a donor's decision to donate. These may include factors such as age, gender, education level, income, and past engagement with the University.<br />
-The ultimate goal is to use the model to target potential donors with personalized communication and messaging, ultimately increasing donation revenue for the University.
+The goal of this project was to build a propensity model that could accurately predict the likelihood of an alumni donor making a donation to the University. The model was trained on historical data of past donations and utilized various demographic and behavioral factors that may influence a donor's decision to donate. These may include factors such as age, gender, education level, income, and past engagement with the University.<br />
+The ultimate goal was to use the model to target potential donors with personalized communication and messaging, ultimately increasing donation revenue for the University.
 
 ## Data Collection
-The University's records will be used to collect data on past donations, including the amount of the donation, the donor's demographic information, and other relevant factors.<br />
-Run **Snowflake Code** and download the CSV file resulted from it as **data5FYs.csv**.
+The University's records was used to collect data on past donations, including the amount of the donation, the donor's demographic information, and other relevant factors.<br />
 
 ## Data Cleaning & Exploratory Data Analysis
-Run the **EDA.py** file to better understand the data and find the best variables to build the propensity model.<br />
+The **EDA.py** file was used to better understand the data content and find the best variables to build the propensity model.<br />
 The data contains the following variables:
 
 NUID = unique ID for donors<br />
