@@ -31,7 +31,7 @@ Some interesting findings:
 2. Class of 2019, 2018 and 2021 ranks 1st, 2nd and 3rd places respectively in the top 20 Class Years donors graduated from with higher gift count. It shows that the University has engaged recent grads to the culture of giving.
 <img src="figs/Top20ClassYrs.png" width=800>
 3. Gift Type "Pledge" has higher giving amounts, which makes sense since it's the total amount the donors commits to giving in a certain period of time.
-<img src="figs/FiscalYRvsAmounts_facetingGiftType.png" width=800>
+<img src="figs/FiscalYRvsAmountsfacetingGiftType.png" width=800>
 4. The majority female donors are alumni from these schools: BHS, CAM, CSC. On the other hand, the majority male donors are from these schools: COE, CPS, CSH, DMSB, KCCS.<br />
 5. Male donors are the majority for all research ratings available.<br />
 6. Research Ratings with higher ranges have less donors from recent graduation years. That makes sense considering that these people at this age are starting their careers, therefore their overall financial situation are generally not the same as someone at a mature level in their careers.<br />
